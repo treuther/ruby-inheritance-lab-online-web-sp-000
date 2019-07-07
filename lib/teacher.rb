@@ -7,5 +7,4 @@ class Teacher < User #This is the child (subclass)
    KNOWLEDGE.sample
   end
 
-  
 end
